@@ -1,2 +1,4 @@
 vendor/bundle/
 log/
+mutagen.yml.lock
+docker-compose.override.yml
